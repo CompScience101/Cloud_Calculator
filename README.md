@@ -1,3 +1,3 @@
 # Cloud_Calculator
 Android app
-Hello there, I am testing my read-me filee! changes made. more change.
+<p> Deleting, changing, modify, I'm to test my read-mee file! change on the way.
