@@ -1,4 +1,4 @@
 # Cloud_Calculator
 Android app
 <p> Deleting, changing, modify, I'm to test my read-mee file! change on the way.
-<p> Main update. (edits from feature branch. didnt add password.)
+<p> Main update. (edits from feature branch. no add password.)
